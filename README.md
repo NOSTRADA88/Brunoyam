@@ -1,2 +1,4 @@
 # Brunoyam
-Improve in java 
+Improve in java
+First lesson home tasks ✅
+Second lesson home tasks ✅
