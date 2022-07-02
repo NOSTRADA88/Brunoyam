@@ -13,7 +13,7 @@ public class ThirdLesson {
 //    }
 //        System.out.println(product);
         // номер 2
-//    int[] mas = new int[90];
+//    long[] mas = new long[90];
 //    mas[0] = 0;
 //    mas[1] = 1;
 //    for (int i = 2; i < mas.length; i++) {
